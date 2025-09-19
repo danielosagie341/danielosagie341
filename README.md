@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋, I’m Daniel  <br> 💻 Currently learning **Cybersecurity and AI/ML**  <br> 🚀 Passionate about **building web apps and AI-powered tools**  <br> 🌱 Looking to collaborate on **open-source projects**  <br> 💻 Full-Stack Developer with 3+ years of experience  <br> 🚀 Skilled in **HTML and CSS, vanilla Javascript, React js, Next js, Tailwind css, Typescript, react native for mobile development, Python**  <br> 🤝 Open to collaborations in **open-source and research projects** <br> ⚡ Fun fact: I can debug code faster with lo-fi beats 🎶 
+Hi there 👋, I’m Daniel <hr> <br> 💻 Currently learning **Cybersecurity and AI/ML**  <br> 🚀 Passionate about **building web apps and AI-powered tools**  <br> 🌱 Looking to collaborate on **open-source projects**  <br> 💻 Full-Stack Developer with 3+ years of experience  <br> 🚀 Skilled in **HTML and CSS, vanilla Javascript, React js, Next js, Tailwind css, Typescript, react native for mobile development, Python**  <br> 🤝 Open to collaborations in **open-source and research projects** <br> ⚡ Fun fact: I can debug code faster with lo-fi beats 🎶 
 
 
 ## 🌐 Socials:
